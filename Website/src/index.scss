@@ -490,3 +490,24 @@ h2 {
     text-decoration: none;
   }
 }
+
+footer {
+  background-color: $wolt-black;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+
+  a {
+    color: $offwhite;
+    text-decoration: none;
+  }
+
+  p {
+    color: $text-grey;
+  }
+
+
+}
