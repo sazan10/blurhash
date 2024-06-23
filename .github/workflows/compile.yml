@@ -15,4 +15,4 @@ jobs:
     - name: Build C Code
       run: |
        cd C
-       make
+       make blurhash_encoder
